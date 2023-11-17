@@ -5,7 +5,7 @@ Meu nome é Marcela, sou formada no curso técnico de Informática para Internet
 Sou apaixonada por tudo que envolve esse universo mas também sou apaixonada pelas minhas bandas favoritas, e eu acho muito legal poder unir esses dois mundos de alguma forma - inclusive, no meu tempo livre, ajudo administrar o maior fã site da banda canadense [Simple Plan](https://simpleplan.com.br/).
 As vezes eu também tenho algumas ideias super aleatórias pra compartilhar aqui 🤪🤓
 
-Ferramentas e tecnologias: 
+<h3>Ferramentas e tecnologias:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
