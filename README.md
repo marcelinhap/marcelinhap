@@ -3,7 +3,7 @@
 Meu nome é Marcela, sou formada no curso técnico de Informática para Internet pela ETEC Lauro Gomes e graduada em Informática para Negócios pela FATEC SBC, e estou tentando conquistar o meu espaço na área de tecnologia 🤗😍
 
 Eu amo tudo que envolve esse universo mas também amo ser fã das minhas bandas favoritas, e eu acho muito legal poder unir essas duas paixões de alguma forma - inclusive, no meu tempo livre, ajudo administrar o maior fã site da banda canadense [Simple Plan](https://simpleplan.com.br/).
-As vezes eu também tenho algumas ideias super aleatórias pra compartilhar aqui 🤪🤓
+As vezes eu também tenho algumas ideias super aleatórias e vou compartilhar aqui 🤪🤓
 
 <h3>Ferramentas e tecnologias:</h3>
 
